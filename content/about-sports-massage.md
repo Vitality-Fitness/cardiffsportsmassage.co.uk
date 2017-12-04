@@ -18,3 +18,5 @@ I can provide treatment and advice for many conditions, including:
 - Stretching and flexibility issues
 - Kinesiology taping <span class="badge badge-success">New</span>
 - and many more...
+
+<a class="btn btn-lg btn-success" href="/gift-vouchers/" role="button">Buy Now</a>
