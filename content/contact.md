@@ -29,7 +29,7 @@ Please call us on (029) 2014 0069 or 079 0452 5169, or email <a href="mailto:don
   </div>
   <div class="form-group">
     <label for="message">Message</label>
-    <textarea rows="4" class="form-control" name="message" maxlength="200"></textarea>
+    <textarea rows="4" class="form-control" name="message" maxlength="200" required></textarea>
   </div>
   <div class="form-group">
     <input class="btn btn-primary" type="submit" value="Send">
