@@ -1,4 +1,4 @@
 baseURL = "https://stoic-brattain-5189a0.netlify.com/"
 languageCode = "en-us"
 title = "Cardiff Sports Massage"
-theme = "bootstrap"
+theme = "bootstrap-v4"
