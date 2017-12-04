@@ -1,4 +1,4 @@
-baseURL = "http://cardiffsportsmassage.co.uk/"
-languageCode = "en-gb"
+baseURL = "/"
+languageCode = "en-us"
 title = "Cardiff Sports Massage"
 theme = "ananke"
