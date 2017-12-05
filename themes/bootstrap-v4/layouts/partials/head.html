@@ -5,7 +5,6 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'UA-110556124-1');
   </script>
   
@@ -15,9 +14,20 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'AW-978238344');
   </script>
+  
+  {{ if isset .Params "adwords_event" }}
+  <!-- Event snippet for Voucher Bought conversion page -->
+  <script>
+    gtag('event', 'conversion', {
+        'send_to': {{ .Params.adwords_event }},
+        'transaction_id': ''
+    });
+  </script>
+  {{ end }}
+
+
 
   <title>Vitality Fitness Sports Massage (Cardiff) | {{ .Title }}</title>
   <!-- Required meta tags -->
