@@ -21,12 +21,12 @@ draft: false
     <tr>
       <td>30 Minutes</td>
       <td>£25</td>
-      <td><a class="btn btn-sm btn-success" href="/gift-vouchers/" role="button">Buy Now</a></td>
+      <td><a class="btn btn-sm btn-success" href="https://app.acuityscheduling.com/schedule.php?owner=14767332&appointmentType=4960152" role="button">Book Appointment</a> <a class="btn btn-sm btn-success" href="/gift-vouchers/" role="button">Buy Gift Voucher</a></td>
     </tr>
     <tr>
       <td>60 Minutes</td>
       <td>£40</td>
-      <td><a class="btn btn-sm btn-success" href="/gift-vouchers/" role="button">Buy Now</a></td>
+      <td><a class="btn btn-sm btn-success" href="https://app.acuityscheduling.com/schedule.php?owner=14767332&appointmentType=4960214" role="button">Book Appointment</a> <a class="btn btn-sm btn-success" href="/gift-vouchers/" role="button">Buy Gift Voucher</a></td>
     </tr>
   </tbody>
 </table>

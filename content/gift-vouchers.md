@@ -2,11 +2,19 @@
 title: "Buy a Gift Voucher"
 date: 2017-12-04T19:11:11Z
 draft: false
+no_header: true
 ---
+
+<div class="jumbotron">
+  <h1 class="display-2">Gift Vouchers</h1>
+  <p class="lead">A 30 or 60 minute gift voucher for a professional deep-tissue sports massage makes the ideal Christmas present for the keen sportsman or woman, or anyone in need of relief for muscular soreness.<p>
+</div>
 
 Please fill in the following form to buy a gift voucher.
 
-Payment will be made by PayPal, and the gift voucher will be sent to the email address used by your PayPal account within 3 working days.
+Payment will be made by PayPal, and the gift voucher will be sent to the email address used by your PayPal account within 3 working days.  The gift voucher can be redeemed by <a href="/contact/">contacting us</a>, or when <a href="https://app.acuityscheduling.com/schedule.php?owner=14767332">booking an appointment</a>.
+
+Our gift vouchers do not expire.
 
 ---
 
@@ -30,7 +38,7 @@ Payment will be made by PayPal, and the gift voucher will be sent to the email a
     <small id="voucherHelp" class="form-text text-muted">Please select the length of treatment you'd like to buy.</small>
   </div>
   <div class="form-group">
-    <input class="btn btn-primary" type="submit" name="submit" value="Pay with PayPal">
+    <input class="btn btn-success" type="submit" name="submit" value="Pay with PayPal">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
   </div>
 </form>
