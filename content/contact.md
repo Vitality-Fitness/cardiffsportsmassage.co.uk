@@ -18,6 +18,10 @@ Please find our contact details below.
       <td><a onclick="return gtag_report_conversion();" href="sms:+447904525169">079 0452 5169</a></td>
     </tr>
     <tr>
+      <th scope="row">WhatsApp</th>
+      <td><a onclick="return gtag_report_conversion();" href="https://api.whatsapp.com/send?phone=447904525169">079 0452 5169</a></td>
+    </tr>
+    <tr>
       <th scope="row">Email</th>
       <td><a onclick="return gtag_report_conversion();" href="mailto:donna@vitalityfitness.info">donna@vitalityfitness.info</a></td>
     </tr>
