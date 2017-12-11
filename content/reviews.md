@@ -1,7 +1,8 @@
 ---
 title: "Reviews"
 date: 2017-12-11T15:54:02Z
-draft: true
+draft: false
+description: Reviews of our massage service from existing customers
 ---
 
 <blockquote class="blockquote">
