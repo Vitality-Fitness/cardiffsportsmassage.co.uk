@@ -35,7 +35,29 @@ h1 {
   padding-top: 1.5rem;
   color: #777;
   border-top: .05rem solid #e5e5e5;
-  text-align: right;
+}
+
+header .container {
+  border-bottom: .05rem solid #e5e5e5;
+  padding: 0rem;
+}
+
+header .container * {
+  color: rgba(0,0,0,.5);
+}
+
+.footer .container {
+  padding: 0rem;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-left: 1.5rem;
+  padding-right: 0;
+}
+
+nav.navbar {
+  padding-left: 0;
+  padding-right: 0;
 }
 
 /* Customize container */
