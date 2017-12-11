@@ -29,6 +29,9 @@
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Patua+One" rel="stylesheet">
   <title>Vitality Fitness Sports, Deep Tissue and Muscle Therapy Massage (Cardiff) | {{ .Title }}</title>
+{{ if isset .Params "description" }}
+  <meta name="description" content="{{ .Params.description }}">
+}}
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
