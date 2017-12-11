@@ -6,6 +6,33 @@ draft: false
 
 Please call us on <a href="tel:+442920140069">(029) 2014 0069</a> or <a href="tel:+447904525169">079 0452 5169</a>, or email <a href="mailto:donna@vitalityfitness.info">donna@vitalityfitness.info</a>.  Alternatively, you can use the form below.
 
+## Opening Hours
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Weekday</th>
+      <th scope="col">Opening Hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Tues - Fri</th>
+      <td>09:30 - 15:00, 17:30 - 21:00</td>
+    </tr>
+    <tr>
+      <th scope="row">Sat</th>
+      <td>09:30 - 12:00</td>
+    </tr>
+    <tr>
+      <th scope="row">Sun</th>
+      <td>Closed</td>
+    </tr>
+  </tbody>
+</table>
+
+## Contact Form
+
 <form action="https://formspree.io/donna@vitalityfitness.info" method="post">
   <input type="hidden" name="_next" value="http://www.cardiffsportsmassage.co.uk/contact-received">
   <div class="form-group">
