@@ -8,7 +8,7 @@ description: 30 and 60 minute sports massage gift vouchers for sale.
 
 <div class="jumbotron">
   <h1 class="display-3">Gift Vouchers</h1>
-  <p class="lead">A 30 or 60 minute gift voucher for a professional deep-tissue sports massage makes the ideal Christmas present for the keen sportsman or woman, or anyone in need of relief for muscular soreness.<p>
+  <p class="lead">A 30, 45 or 60 minute gift voucher for a professional deep-tissue sports massage makes the ideal Christmas present for the keen sportsman or woman, or anyone in need of relief for muscular soreness.<p>
 </div>
 
 Please fill in the following form to buy a gift voucher.
