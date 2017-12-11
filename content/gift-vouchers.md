@@ -40,7 +40,7 @@ Our gift vouchers do not expire.
     <small id="voucherHelp" class="form-text text-muted">Please select the length of treatment you'd like to buy.</small>
   </div>
   <div class="form-group">
-    <input class="btn btn-success" type="submit" name="submit" value="Pay with PayPal">
+    <input class="btn btn-primary" type="submit" name="submit" value="Pay with PayPal">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
   </div>
 </form>

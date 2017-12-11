@@ -88,6 +88,6 @@ Please call us on <a onclick="return gtag_report_conversion();" href="tel:+44292
     <textarea rows="4" class="form-control" name="message" maxlength="200" required></textarea>
   </div>
   <div class="form-group">
-    <input class="btn btn-primary" type="submit" value="Send">
+    <input class="btn btn-primary" type="submit" value="Contact Us">
   </div>
 </form>
