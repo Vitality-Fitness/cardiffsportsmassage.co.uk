@@ -34,6 +34,7 @@ Our gift vouchers do not expire.
     <label for="os0">Voucher Type</label>
     <select name="os0" class="form-control" aria-describedby="voucherHelp">
        <option value="30 Minutes">30 Minutes £25.00 GBP</option>
+       <option value="45 Minutes">45 Minutes £35.00 GBP</option>
        <option value="60 Minutes">60 Minutes £40.00 GBP</option>
     </select>
     <small id="voucherHelp" class="form-text text-muted">Please select the length of treatment you'd like to buy.</small>
