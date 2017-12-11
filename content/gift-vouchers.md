@@ -3,6 +3,7 @@ title: "Buy a Gift Voucher"
 date: 2017-12-04T19:11:11Z
 draft: false
 no_header: true
+description: 30 and 60 minute sports massage gift vouchers for sale.
 ---
 
 <div class="jumbotron">

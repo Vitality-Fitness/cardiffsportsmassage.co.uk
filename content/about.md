@@ -2,6 +2,7 @@
 title: "About Us"
 date: 2017-12-04T20:19:37Z
 draft: false
+description: Credentials and background for our therapists.
 ---
 
 Vitality Fitness is the trading name of Donna Wharton, a personal training and sports massage therapist working in Cardiff, UK.  Donna has been a professional personal trainer since 2004 and sports masseuse since 2008.
