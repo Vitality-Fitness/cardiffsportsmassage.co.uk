@@ -37,6 +37,10 @@ h1 {
   border-top: .05rem solid #e5e5e5;
 }
 
+.footer .container * {
+  color: rgba(0,0,0,.5);
+}
+
 header .container {
   border-bottom: .05rem solid #e5e5e5;
   padding: 0rem;
