@@ -5,9 +5,30 @@ draft: false
 description: Telephone numbers, email addresses and opening hours for our sports massage clinic.
 ---
 
-Please call us on <a onclick="return gtag_report_conversion();" href="tel:+442920140069">(029) 2014 0069</a> or <a onclick="return gtag_report_conversion();" href="tel:+447904525169">079 0452 5169</a>, or email <a href="mailto:donna@vitalityfitness.info">donna@vitalityfitness.info</a>.  Alternatively, you can use the form below.
+Please find our contact details below.
+
+<table class="table table-striped">
+  <tbody>
+    <tr>
+      <th scope="row">Telephone</th>
+      <td><a onclick="return gtag_report_conversion();" href="tel:+442920140069">(029) 2014 0069</a> or <a onclick="return gtag_report_conversion();" href="tel:+447904525169">079 0452 5169</a></td>
+    </tr>
+    <tr>
+      <th scope="row">SMS</th>
+      <td><a onclick="return gtag_report_conversion();" href="sms:+447904525169">079 0452 5169</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Email</th>
+      <td><a onclick="return gtag_report_conversion();" href="mailto:donna@vitalityfitness.info">donna@vitalityfitness.info</a></td>
+    </tr>
+  </tbody>
+</table>
+
+Alternatively, you can use the form at the bottom of this page.
 
 ## Opening Hours
+
+These are our general opening hours. You can find our availability on a particular day by <a href="https://app.acuityscheduling.com/schedule.php?owner=14767332">booking an appointment</a>.
 
 <table class="table table-striped">
   <thead>
