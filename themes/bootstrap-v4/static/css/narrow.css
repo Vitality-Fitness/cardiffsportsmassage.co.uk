@@ -69,7 +69,7 @@ nav.navbar {
   text-align: center;
   border-bottom: .05rem solid #e5e5e5;
   background-image: url('/img/back-massage.jpg');
-  background-position: center;
+  background-position: -150px -150px;
   color: rgba(255, 255, 255, 1);
 }
 .jumbotron .btn {
