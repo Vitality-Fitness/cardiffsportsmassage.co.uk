@@ -64,27 +64,17 @@ nav.navbar {
   padding-right: 0;
 }
 
-/* Customize container */
-@media (min-width: 48em) {
-  .container {
-    max-width: 46rem;
-  }
-}
-.container-narrow > hr {
-  margin: 2rem 0;
-}
-
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
   border-bottom: .05rem solid #e5e5e5;
-  background-image: url('/img/physiotherapy-567021_1280.jpg');
+  background-image: url('/img/back-massage.jpg');
   background-position: center;
-  color: white;
+  color: rgba(20, 20, 20, 1);
+  /* opacity: 0.7; */
 }
 .jumbotron .btn {
-  padding: .75rem 1.5rem;
-  font-size: 1.25rem;
+  margin-bottom: 0.3rem;
 }
 
 /* Supporting marketing content */
