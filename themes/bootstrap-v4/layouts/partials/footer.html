@@ -1,6 +1,25 @@
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+
+  return t;
+}(document, "script", "twitter-wjs"));</script>
 <footer class="footer">
   <div class="container">
     <div class="row">
+      <div class="col">
+        <p><a class="twitter-share-button" href="https://twitter.com/intent/tweet?url&amp;via=VitFitCdf">Tweet</a></p>
+      </div>
       <div class="col text-right">
         <p><i class="oi oi-phone"></i> All Enquiries: <a onclick="return gtag_report_conversion();" href="tel:+447904525169"> (079) 0452 5169</a></p>
       </div>
