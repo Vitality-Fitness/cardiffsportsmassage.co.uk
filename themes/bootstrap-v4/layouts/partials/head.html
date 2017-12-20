@@ -45,9 +45,14 @@
   <meta property="og:image:height" content="82">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ .Permalink }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@VitFitCdf">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:image" content="http://www.cardiffsportsmassage.co.uk/img/logo.jpg">
 
 {{ if .Description }}
   <meta property="og:description" content="{{ .Description }}">
+  <meta name="twitter:description" content="{{ .Description }}">
   <meta name="description" content="{{ .Description }}">
 {{ end }}
   <!-- Bootstrap CSS -->
