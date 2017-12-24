@@ -32,7 +32,7 @@ Alternatively, you can use the form at the bottom of this page.
 
 ## Opening Hours
 
-These are our general opening hours. You can find our availability on a particular day by <a href="https://app.acuityscheduling.com/schedule.php?owner=14767332">booking an appointment</a>.
+These are our clinic opening hours. You can find our availability on a particular day by <a href="https://app.acuityscheduling.com/schedule.php?owner=14767332">booking an appointment</a>.
 
 <table class="table table-striped">
   <thead>
@@ -42,6 +42,10 @@ These are our general opening hours. You can find our availability on a particul
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th scope="row">Mon</th>
+      <td>Closed</td>
+    </tr>
     <tr>
       <th scope="row">Tues - Fri</th>
       <td>09:30 - 15:00, 17:30 - 21:00</td>
