@@ -20,4 +20,4 @@ We can provide treatment and advice for many conditions, including:
 - Kinesiology taping <span class="badge badge-success">New</span>
 - and many more...
 
-<a class="btn btn-success" href="https://app.acuityscheduling.com/schedule.php?owner=14767332" role="button">Book Appointment</a> <a class="btn btn-success" href="/gift-vouchers/" role="button">Buy Gift Voucher</a>
+<a class="btn btn-primary" href="https://app.acuityscheduling.com/schedule.php?owner=14767332" role="button">Book Appointment</a> <a class="btn btn-primary" href="/gift-vouchers/" role="button">Buy Gift Voucher</a>
