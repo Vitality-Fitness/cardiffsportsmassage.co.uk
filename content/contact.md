@@ -32,7 +32,7 @@ Alternatively, you can use the form at the bottom of this page.
 
 ## Opening Hours
 
-These are our clinic opening hours. You can find our availability on a particular day by <a href="https://app.acuityscheduling.com/schedule.php?owner=14767332">booking an appointment</a>.
+These are our clinic opening hours. You can find our availability on a particular day by <a href="https://vitfitcdf.as.me/">booking an appointment</a>.
 
 <table class="table table-striped">
   <thead>
