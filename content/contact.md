@@ -44,7 +44,7 @@ These are our clinic opening hours. You can find our availability on a particula
   <tbody>
     <tr>
       <th scope="row">Mon</th>
-      <td>Closed</td>
+      <td>15:30 - 21:00</td>
     </tr>
     <tr>
       <th scope="row">Tues - Fri</th>
