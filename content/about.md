@@ -15,4 +15,8 @@ Qualified to NVQ Level 4 in Sports Massage Therapy, Donna is firmly committed to
 
 Donna holds full public indemnity and civil liability insurance.
 
+## Clinic Location
+
 The clinic is easy to find and has free off-street parking.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4965.980343684014!2d-3.166903450531205!3d51.51339630459289!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cf7b789e35f%3A0x40dd5a759b4f0520!2sVitality+Fitness+Sports+Massage!5e0!3m2!1sen!2suk!4v1522865125866" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
