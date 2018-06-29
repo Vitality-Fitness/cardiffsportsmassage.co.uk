@@ -7,8 +7,16 @@ description: Reviews of our massage service from existing customers
 
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
-<p class="mb-0">Wanted a sports massage prior to a triathlon race. The online booking system was very simple and clear, with availability in the evening which is really convenient. Donna was clearly very knowledgeable and made sure to tailor the session to my specific needs. One of the best sports massages I've had (had quite a few!) Highly recommended.
+<p class="mb-0">Wanted a sports massage prior to a triathlon race. The online booking system was very simple and clear, with availability in the evening which is really convenient. Donna was clearly very knowledgeable and made sure to tailor the session to my specific needs. One of the best sports massages I've had (had quite a few!) Highly recommended.</p>
 <footer class="blockquote-footer">Emyr Jones</footer>
+</blockquote>
+
+<blockquote class="blockquote">
+<span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
+<p class="mb-0">I found the experience very beneficial and will be making it a regular event to keep my old bones moving!</p>
+<p class="mb-0">The website is clear and concise and being able to book online makes the whole experience straightforward. I have pencilled in my diary to visit again in 2/3 weeks time.</p>
+<p class="mb-0">I found [Donna] very knowledgeable and professional and will be recommending [her] to the guys I train with who are constantly moaning about various aches and pains.</p>
+<footer class="blockquote-footer">Wayne Morgan</footer>
 </blockquote>
 
 <blockquote class="blockquote">
