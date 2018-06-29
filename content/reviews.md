@@ -7,6 +7,12 @@ description: Reviews of our massage service from existing customers
 
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
+<p class="mb-0">Wanted a sports massage prior to a triathlon race. The online booking system was very simple and clear, with availability in the evening which is really convenient. Donna was clearly very knowledgeable and made sure to tailor the session to my specific needs. One of the best sports massages I've had (had quite a few!) Highly recommended.
+<footer class="blockquote-footer">Emyr Jones</footer>
+</blockquote>
+
+<blockquote class="blockquote">
+<span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
 <p class="mb-0">You will be in good hands, literally, with Donna - she is friendly. easy to converse with and as the consultation and treatment progress you realise that she really knows what she's doing. I visited Donna with a three-month old shoulder injury and the deep tissue massage received was very good. The stronger the pressure the better as far as I'm concerned and Donna can certainly deliver that but be assured she won't go too far and her easy 'bedside' manner is very relaxing. Donna finished up with some useful exercise suggestions which I am following. You don't have to be the sporty type (I'm certainly not!) - if you have a problem that massage therapy might help then this is the place for you. Vitality Sports Massage is now in my phone contacts and my email address book and I would recommend Donna without hesitation to family and friends.</p>
 <footer class="blockquote-footer">Peter Hicks</footer>
 </blockquote>
