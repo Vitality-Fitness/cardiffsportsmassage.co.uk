@@ -13,7 +13,7 @@ Donna has provided deep-tissue sports massage for the New Zealand Athletics Team
 
 Qualified to NVQ Level 4 in Sports Massage Therapy, Donna is firmly committed to continuous professional development, and has recently completed training in kinesiology taping, muscle energy techniques and trigger point techniques.  She is currently studying Human Biology at the Open University.
 
-Donna holds full public indemnity and civil liability insurance.
+Donna holds full public indemnity and civil liability insurance and is a full member of the Sports Therapy Association.
 
 ## Clinic Location
 
