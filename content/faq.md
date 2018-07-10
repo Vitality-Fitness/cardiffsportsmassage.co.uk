@@ -5,6 +5,29 @@ draft: false
 description: Frequently asked questions about our sports massage service.
 ---
 
+### Can you help me?
+
+Donna has extensive sports massage experience, and has treated people of all ages with tired or tight muscles through work, posture or exercise, including professional cyclists, professional rugby union players & international calibre athletes, all of whom receive the very same friendly and professional service & advice.
+
+She can provide treatment and advice for many conditions, including:
+
+- Aching & sore neck, shoulders & back
+- Tired, fatigued muscles
+- Before (pre-event), during and after (post-event) events
+- Injury prevention
+- Injury recovery
+- Stretching and flexibility issues
+- Kinesiology taping New
+- Pain or restricted movement
+
+### What should I expect when I arrive?
+
+You will be greeted by Donna and taken into the clinic. If it is your first visit a short consultation form will need to be completed. Donna will then discuss any anomalies from the form and find out in detail why you are visiting. It's important to get as much information as possible, including history and current lifestyle including exercising, if applicable. Depending on your ailment Donna may then perform some tests and you will be asked to get onto the massage bed either sitting or laying prone or supine where the treatment will commence. If necessary Donna will ask you to move positions throughout the treatment.
+
+### Will it hurt?
+
+Sports massage is a deep treatment but you should always be enjoying the treatment. Donna will frequently ask you if the pressure is suitable or warn you if a deeper technique is required. Throughout the treatment you are in control of the pressure. Donna advises you do not allow her to go above an 8 / 10 discomfort. The discomfort should always feel 'good', like it is releasing and helping your condition. 
+
 ### I have discomfort in my neck and shoulder.  Can you help?
 
 I am frequently visited by people with tension in their neck and shoulders. Tension in the neck and upper
