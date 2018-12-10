@@ -5,6 +5,8 @@ draft: false
 description: Reviews of our massage service from existing customers
 ---
 
+For an up to date list of reviews, please visit <a href="https://www.google.com/search?q=Vitality+Fitness+Sports+Massage+Brynderwen+Close,+Cardiff,+Wales,+United+Kingdom&ludocid=4673991449443763488&#lrd=0x486e1cf7b789e35f:0x40dd5a759b4f0520,1">Google</a> and/or <a href="https://uk.trustpilot.com/review/www.cardiffsportsmassage.co.uk">TrustPilot</a>.
+
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
 <p class="mb-0">Wanted a sports massage prior to a triathlon race. The online booking system was very simple and clear, with availability in the evening which is really convenient. Donna was clearly very knowledgeable and made sure to tailor the session to my specific needs. One of the best sports massages I've had (had quite a few!) Highly recommended.</p>
