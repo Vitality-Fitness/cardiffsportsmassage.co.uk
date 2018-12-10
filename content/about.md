@@ -11,7 +11,7 @@ Vitality Fitness is the trading name of Donna Wharton, a personal training and s
 
 Donna has provided deep-tissue sports massage for the New Zealand Athletics Team, and the Australian U18 Rugby Union team, as well as a number of local professional and amateur sportsmen and women.
 
-Qualified to NVQ Level 4 in Sports Massage Therapy, Donna is firmly committed to continuous professional development, and has recently completed training in kinesiology taping, muscle energy techniques and trigger point techniques.  She is currently studying Human Biology at the Open University.
+Qualified to NVQ Level 4 in Sports Massage Therapy, Donna is firmly committed to continuous professional development, and has recently completed training in kinesiology taping, muscle energy techniques and trigger point techniques.  A firm believer in continuous professional development, this year, she completed her studies of Human Biology at the Open University, attended the Therapy Expo at the NEC and renewed her first aid qualifications.
 
 Donna holds full public indemnity and civil liability insurance and is a full member of the Sports Therapy Association.
 
