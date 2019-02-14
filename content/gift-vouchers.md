@@ -11,9 +11,9 @@ description: 30 and 60 minute sports massage gift vouchers for sale.
   <p class="lead">A 30, 45 or 60 minute gift voucher for a professional deep-tissue sports massage makes the ideal present for the keen sportsman or woman, or anyone in need of relief for muscular soreness.<p>
 </div>
 
-Please pick the voucher you'd like from the following options.  After completing payment, you'll be sent an email with a link to your voucher that you can print, or send on by email.
+Please pick the voucher you'd like from the following options.  After completing payment, you'll be sent an email with a link to your voucher that you can print, or forward to the person you're buying a gift for.
 
-Our gift vouchers are valid for 12 months.
+Gift vouchers can be redeemed through our online booking system or over the phone, and are valid for 12 months.
 
 <a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607" role="button">30 Minutes (&pound;25.00)</a>
 
