@@ -10,25 +10,78 @@ description: Prices for our 30 and 60 minute sports massage treatments.
    to help us deliver the best possible treatment.
 </div>
 
-<table class="table">
+<div class="container">
+  <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">30 Minutes</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">£25</h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Ideal for maintenance</li>
+              <li>Smaller issues</li>
+              <li>Good for busy people</li>
+              <!-- <li>Single muscle</li> -->
+            </ul>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now</a>
+            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">45 Minutes</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">£35</h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Most popular option</li>
+              <li>More complex issues</li>
+              <li>Good lunchtime option</li>
+              <!-- <li>Help center access</li> -->
+            </ul>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807">Book Now</a>
+            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">60 Minutes</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">£40</h1>
+            <ul class="list-unstyled mt-3 mb-4">
+              <li>Best value for money</li>
+              <li>Ideal for initial treatment</li>
+              <li>Gives time for further soft tissues tests</li>
+              <!-- <li>Help center access</li> -->
+            </ul>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now</a>
+            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<!-- <table class="table">
   <tbody>
     <tr>
       <td>30 Minutes</td>
       <td>£25</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Appointment</a>
+      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now</a>
       <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607" role="button">Buy Gift Voucher</a></td>
     </tr>
     <tr>
       <td>45 Minutes</td>
       <td>£35</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807" role="button">Book Appointment</a>
+      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807" role="button">Book Now</a>
       <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609" role="button">Buy Gift Voucher</a></td>
     </tr>
     <tr>
       <td>60 Minutes</td>
       <td>£40</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214" role="button">Book Appointment</a>
+      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214" role="button">Book Now</a>
       <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">Buy Gift Voucher</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
