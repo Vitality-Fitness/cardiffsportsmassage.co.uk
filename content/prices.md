@@ -53,7 +53,7 @@ description: Prices for our 30 and 60 minute sports massage treatments.
             <ul class="list-unstyled mt-3 mb-4">
               <li>Best value for money</li>
               <li>Ideal for initial treatment</li>
-              <li>Gives time for further soft tissues tests</li>
+              <li>Gives time for further soft tissue tests</li>
               <!-- <li>Help center access</li> -->
             </ul>
             <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now</a>
