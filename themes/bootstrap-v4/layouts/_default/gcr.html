@@ -2,14 +2,13 @@
 <html lang="en">
   <head>
     <!-- BEGIN GCR Opt-in Module Code -->
-    <script src="https://apis.google.com/js/platform.js?onload=renderOptIn"
-      async defer>
+    <script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer>
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js"></script>
     <script>
       var url = new URL(window.location.href);
       window.renderOptIn = function() {
-       var appointment_date = moment("%clientDate%", "MMMM D, YYYY");
+       var appointment_date = moment(url.searchParams.get('appointment_date'), "MMMM D, YYYY");
         window.gapi.load('surveyoptin', function() {
           window.gapi.surveyoptin.render(
             {
@@ -18,7 +17,7 @@
               "order_id": url.searchParams.get('order_id'),
               "email": url.searchParams.get('email'),
               "delivery_country": "GB",
-              "estimated_delivery_date": url.searchParams.get('appointment_date'),
+              "estimated_delivery_date": appointment_date.format("YYYY-MM-DD"),
 
               // OPTIONAL
               "opt_in_style": "CENTER_DIALOG"
