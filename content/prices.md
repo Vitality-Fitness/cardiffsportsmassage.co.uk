@@ -24,7 +24,8 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Good for busy people</li>
               <!-- <li>Single muscle</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now</a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301232">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></span></a>
             <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
           </div>
         </div>
@@ -40,7 +41,8 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Good lunchtime option</li>
               <!-- <li>Help center access</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807">Book Now</a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301244">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a>
             <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
           </div>
         </div>
@@ -56,7 +58,8 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Gives time for further soft tissue tests</li>
               <!-- <li>Help center access</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now</a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301240">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a>
             <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
           </div>
         </div>
