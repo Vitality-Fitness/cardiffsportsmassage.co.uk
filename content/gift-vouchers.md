@@ -19,4 +19,4 @@ Gift vouchers can be redeemed through our online booking system or over the phon
 
 <a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609" role="button">45 Minutes (&pound;35.00)</a>
 
-<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">60 Minutes (&pound;40.00)</a>
+<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">60 Minutes (&pound;45.00)</a>
