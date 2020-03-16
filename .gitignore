@@ -1,3 +1,9 @@
+# macOS
 .DS_Store
 static/.DS_Store
+
+# Hugo
 public
+
+# VS Code
+*.code-workspace
