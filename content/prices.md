@@ -24,9 +24,12 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Good for busy people</li>
               <!-- <li>Single muscle</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
-            <a class="btn btn-lg btn-block btn-primary disabled" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301232">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></span></a>
-            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+            <div class="alert alert-danger" role="alert" style="margin-top: 0.7em">
+              All bookings are currently suspended due to <a href="/covid-19">COVID-19</a>.
+            </div>
+            <!-- <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary disabled" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301232">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></span></a> -->
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -41,9 +44,12 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Good lunchtime option</li>
               <!-- <li>Help center access</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
-            <a class="btn btn-lg btn-block btn-primary disabled" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301240">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a>
-            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+            <!-- <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301240">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a> -->
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+            <div class="alert alert-danger" role="alert" style="margin-top: 0.7em">
+              All bookings are currently suspended due to <a href="/covid-19">COVID-19</a>.
+            </div>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -58,33 +64,13 @@ description: Prices for our 30 and 60 minute sports massage treatments.
               <li>Gives time for further soft tissue tests</li>
               <!-- <li>Help center access</li> -->
             </ul>
-            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
-            <a class="btn btn-lg btn-block btn-primary disabled" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301244">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a>
-            <a class="btn btn-lg btn-block btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
+            <!-- <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214">Book Now <br><span style="font-size: 0.7em">at Body Mind Clinic</span></a>
+            <a class="btn btn-lg btn-block btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=10301244">Book Now <br><span style="font-size: 0.7em">at Cyncoed Clinic</span></a> -->
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
+            <div class="alert alert-danger" role="alert" style="margin-top: 0.7em">
+              All bookings are currently suspended due to <a href="/covid-19">COVID-19</a>.
+            </div>
           </div>
         </div>
       </div>
     </div>
-
-<!-- <table class="table">
-  <tbody>
-    <tr>
-      <td>30 Minutes</td>
-      <td>£25</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960152">Book Now</a>
-      <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607" role="button">Buy Gift Voucher</a></td>
-    </tr>
-    <tr>
-      <td>45 Minutes</td>
-      <td>£35</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=5000807" role="button">Book Now</a>
-      <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609" role="button">Buy Gift Voucher</a></td>
-    </tr>
-    <tr>
-      <td>60 Minutes</td>
-      <td>£40</td>
-      <td><a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php?appointmentType=4960214" role="button">Book Now</a>
-      <a class="btn btn-secondary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">Buy Gift Voucher</a></td>
-    </tr>
-  </tbody>
-</table> -->

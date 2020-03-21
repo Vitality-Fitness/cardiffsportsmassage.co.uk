@@ -2,3 +2,6 @@ baseURL = "https://www.cardiffsportsmassage.co.uk/"
 languageCode = "en-gb"
 title = "Vitality Fitness Sports, Deep Tissue and Muscle Therapy Massage"
 theme = "bootstrap-v4"
+
+[markup.goldmark.renderer]
+unsafe= true
