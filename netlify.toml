@@ -1,2 +1,2 @@
-[build.envionment]
+[context.production.envionment]
   HUGO_VERSION = "0.69.0"
