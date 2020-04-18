@@ -1,6 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/bootstrap"]
-	path = themes/bootstrap
-	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog
+[submodule "themes/vitality-fitness"]
+	path = themes/vitality-fitness
+	url = https://github.com/seize-the-dave/vitality-fitness-theme.git
