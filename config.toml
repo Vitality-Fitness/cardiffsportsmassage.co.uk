@@ -5,3 +5,28 @@ theme = "vitality-fitness"
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[menu]
+  [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+
+  [[menu.main]]
+    name = "Vouchers"
+    url = "/gift-vouchers/"
+
+  [[menu.main]]
+    name = "Prices"
+    url = "/prices/"
+
+  [[menu.main]]
+    name = "Reviews"
+    url = "/reviews/"
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
