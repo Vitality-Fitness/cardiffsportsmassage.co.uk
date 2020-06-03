@@ -28,9 +28,9 @@ Please find our contact details below.
   </tbody>
 </table>
 
-Alternatively, you can use the form at the bottom of this page.
+<!-- Alternatively, you can use the form at the bottom of this page. -->
 
-## Opening Hours
+<!-- ## Opening Hours
 
 These are our clinic opening hours. You can find our availability on a particular day by <a href="https://vitfitcdf.as.me/">booking an appointment</a>.
 
@@ -55,11 +55,11 @@ These are our clinic opening hours. You can find our availability on a particula
       <td>09:30 - 12:00</td>
     </tr>
     <tr>
-      <th scope="row">Sun</th>
+      <th scope="row">Mon - Sun</th>
       <td>Closed</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## Contact Form
 

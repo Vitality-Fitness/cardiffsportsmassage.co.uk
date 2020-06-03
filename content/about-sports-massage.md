@@ -23,7 +23,7 @@ We can provide treatment and advice for many conditions, including:
 
 #### How much does it cost?
 
-Sports massage can cost less than you expect.  For our full range of prices are available, see our <a href="/prices">tariff</a>.
+Sports massage can cost less than you expect.  For our full range of prices are available, see our <a href="/prices">prices</a>.
 
 #### Who will be treating me?
 
@@ -36,4 +36,5 @@ Donna is the sole sports massage therapist at Vitality Fitness, ensuring you alw
 
 If you are expecting your legs to be massaged, please wear shorts to your appointment. -->
 
-<a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php" role="button">Book Now</a> <a class="btn btn-primary" href="/gift-vouchers/" role="button">Buy Gift Voucher</a>
+<!-- <a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php" role="button">Book Now</a> -->
+<a class="btn btn-primary" href="/gift-vouchers/" role="button">Buy Gift Voucher</a>
