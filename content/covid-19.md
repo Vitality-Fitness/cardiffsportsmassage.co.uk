@@ -33,13 +33,12 @@ It's been a long wait for you all through these uncertain times and with frequen
 
 * You must come to the appointment alone where possible and if you have someone with you they must wait in the car after escorting you to the entrance.
 
-* The toilet is of very high risk and so therefore should not be used if at all possible.All persons to try to avoid touching surfaces where possible. 
+* The toilet is of very high risk and so therefore should not be used if at all possible.
 
-I hope this is all clear and will allow us to come back to work/treatments in a safe way for everyone. 
+* All persons to try to avoid touching surfaces where possible. 
 
-I look forward to seeing you all soon.
+I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe. 
 
-
-Thank you for your custom.  Stay well, and I look forward to seeing you soon 
+Thank you for your custom. I look forward to seeing you all soon.
 
 Donna
