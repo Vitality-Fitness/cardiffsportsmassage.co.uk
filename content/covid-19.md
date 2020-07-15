@@ -41,6 +41,6 @@ You will, of course, see many changes in the clinic to help keep us all safe, in
 
 I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe. 
 
-Thank you for your custom. I look forward to seeing you all soon.
+Thank you for your custom and patience. I look forward to seeing you all soon.
 
 Donna
