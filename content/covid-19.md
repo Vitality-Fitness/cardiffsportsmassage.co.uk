@@ -1,11 +1,11 @@
 ---
-title: "COVID-19 Statement Updated 14th July 2020"
+title: "COVID-19 Statement Updated 27th July 2020"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-It's been a long wait for you all through these uncertain times and with frequently changing governement advice it has been difficult for me and for you, where many of you are in discomfort or pain. Today I am able to give you some useful news; I am very much hoping that from 27th July 2020 I will be able to reopen my clinic! I will open up the online booking system within the next week so that you can schedule an appointment. As ever, this date is subject to change depending on new information regarding the virus, but I am happy to be able to, at last, give my clients a date my clinic will hopefully reopen. This date was announced during the new government guidelines on the 10th July 2020. 
+The clinic is OPEN! 
 
 You will, of course, see many changes in the clinic to help keep us all safe, including:
 
@@ -21,11 +21,11 @@ You will, of course, see many changes in the clinic to help keep us all safe, in
 
 * Bring your own water bottle and leave it in the car so you can rehydrate after the treatment. Leave unnecessary belongings at home or in the car.
 
-* I shall be wearing a mask and visor.Where possible, in communal areas we should adhere to the 2m distancing rule.
+* I shall be wearing a mask. Where possible, in communal areas we should adhere to the 2m distancing rule.
 
-* The couch will not have towels on. I will be using paper couch and paper face hole coverings instead.I
+* The couch will not have towels on. I will be using paper couch and paper face hole coverings instead.
 
-* I have scheduled in 15 minutes between clients to allow time to air, sanitise rooms and collect/escort clients out.
+* I have scheduled in 15 minutes between clients to allow time to air, sanitise rooms and collect/escort clients in/out.
 
 * If you experience any symptoms of COVID-19 before your appointment (fever, cough, loss of sense of smell/taste) please cancel your appointment. 
 
