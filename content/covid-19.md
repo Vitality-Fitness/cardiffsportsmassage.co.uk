@@ -1,11 +1,13 @@
 ---
-title: "COVID-19 Statement Updated 27th July 2020"
+title: "COVID-19 Statement Updated 22nd Septmeber 2020"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is OPEN! 
+The clinic is OPEN. 
+
+Thanks to everyone for following the procedures as it helps to keep everyone safe by minimising risk of spread of COVID-19. If you are from any of the areas which have been put in local lockdown, please do not book an appointment. 
 
 You will, of course, see many changes in the clinic to help keep us all safe, including:
 
