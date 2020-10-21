@@ -5,9 +5,11 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is OPEN. 
+The clinic is OPEN, but will be closed from 6pm 23rd October until Tuesday 10th November due to the new National lockdown.
 
-Thanks to everyone for following the procedures as it helps to keep everyone safe by minimising risk of spread of COVID-19. If you are from any of the areas which have been put in local lockdown, please do not book an appointment. 
+Thanks to everyone for your support through this difficult time and I look forward to seeing you in November!
+
+Thank you for following the procedures in and around rhe clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
 You will, of course, see many changes in the clinic to help keep us all safe, including:
 
