@@ -9,7 +9,7 @@ The clinic is OPEN, but will be closed from 6pm 23rd October until Tuesday 10th 
 
 Thanks to everyone for your support through this difficult time and I look forward to seeing you in November!
 
-Thank you for following the procedures in and around rhe clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
+Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
 You will, of course, see many changes in the clinic to help keep us all safe, including:
 
