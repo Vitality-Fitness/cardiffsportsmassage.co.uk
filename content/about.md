@@ -23,6 +23,6 @@ Both clinics are easy to find and have free off-street parking.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2484.33995909296!2d-3.160155084095402!3d51.48862867963209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cc354695555%3A0xe71ea276e4606f9e!2sThe+Body+Clinic!5e0!3m2!1sen!2suk!4v1544448140564" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-### Cyncoed Clinic
+<!--### Cyncoed Clinic -->
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.004888080732!2d-3.1649436840717717!3d51.51312631810525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cf7b83c5f8f%3A0x3de3c53d63d3be08!2s7+Brynderwen+Cl%2C+Cardiff+CF23+6BR!5e0!3m2!1sen!2suk!4v1560195552877!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.004888080732!2d-3.1649436840717717!3d51.51312631810525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486e1cf7b83c5f8f%3A0x3de3c53d63d3be08!2s7+Brynderwen+Cl%2C+Cardiff+CF23+6BR!5e0!3m2!1sen!2suk!4v1560195552877!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
