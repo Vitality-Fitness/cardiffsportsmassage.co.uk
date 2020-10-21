@@ -15,7 +15,7 @@ Qualified to NVQ Level 4 in Sports Massage Therapy, Donna is firmly committed to
 
 Donna holds full public indemnity and civil liability insurance and is a full member of the Sports Therapy Association.
 
-## Clinic Locations
+## Clinic Location
 
 Both clinics are easy to find and have free off-street parking.
 
