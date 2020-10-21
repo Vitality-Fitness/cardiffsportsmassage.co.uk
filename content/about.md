@@ -17,7 +17,7 @@ Donna holds full public indemnity and civil liability insurance and is a full me
 
 ## Clinic Location
 
-Both clinics are easy to find and have free off-street parking.
+The clinic is easy to find and has free off-street parking.
 
 ### The Body Mind Clinic
 
