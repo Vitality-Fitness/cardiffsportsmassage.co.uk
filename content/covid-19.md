@@ -1,13 +1,13 @@
 ---
-title: "COVID-19 Statement Updated 21st October 2020"
+title: "COVID-19 Statement Updated 5th Novembers 2020"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is OPEN, but will be closed from 6pm 23rd October until Tuesday 10th November due to the new National lockdown.
+The clinic is OPEN from Monday 6th November. Bookings being taken NOW!
 
-Thanks to everyone for your support through this difficult time and I look forward to seeing you in November!
+Thanks to everyone for your support through this difficult time and I look forward to seeing you in soon.
 
 Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
