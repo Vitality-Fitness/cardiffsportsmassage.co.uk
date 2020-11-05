@@ -5,7 +5,7 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is OPEN from Monday 6th November. Bookings being taken NOW!
+The clinic is OPEN from Monday 9th November. Bookings being taken NOW!
 
 Thanks to everyone for your support through this difficult time and I look forward to seeing you in soon.
 
