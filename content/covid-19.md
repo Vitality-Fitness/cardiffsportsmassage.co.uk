@@ -1,17 +1,17 @@
 ---
-title: "COVID-19 Statement Updated 5th November 2020"
+title: "COVID-19 Statement Updated 20th December 2020"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is OPEN from Monday 9th November. Bookings being taken NOW!
+The clinic is now CLOSED from Monday 21st December. Bookings will reopen when Welsh government guidance allows.
 
-Thanks to everyone for your support through this difficult time and I look forward to seeing you in soon.
+Thanks to everyone for your support through this difficult time and I look forward to seeing you soon.
 
 Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
-You will, of course, see many changes in the clinic to help keep us all safe, including:
+When we are open you will, of course, see many changes in the clinic to help keep us all safe, including:
 
 * Once your appointment is made you must fill out an online screening form. If the form is not complete 24 hours before the appointment time your appointment will be cancelled. 
 
