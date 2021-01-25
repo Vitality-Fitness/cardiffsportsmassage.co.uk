@@ -5,9 +5,9 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Due to the lockdown announced last month and the clinic being closed since, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible. As of 1st February I will be opening up bookings for online treatments. While this will be a different approach it has helped and is helping people right now. Physiotherapists and Sports Massage Therapists have adopted this approach as it is the safest way we can help at the moment. 
+Due to the lockdown announced last month and the clinic being closed since, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible. As of 1st February I will be opening up bookings for online treatments via video. While this will be a different approach it has helped and is helping people right now. Physiotherapists and Sports Massage Therapists have adopted this approach as it is the safest way we can help at the moment. These will be done via, Zoom or WhatsApp depending on your preference.
 
-Online assessment will include:
+Online assessment and treatment will include:
 * Full video assessment just as we would in clinic 
 * Any muscoskeletal tests, if applicable, to help me define the problem with full instruction & demonstration from myself.
 * Explanation of my thoughts and diagnosis from consultation and tests.
