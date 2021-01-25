@@ -5,7 +5,7 @@ draft: false
 description: Telephone numbers, email addresses and opening hours for our sports massage clinic.
 ---
 
-Please find our contact details below.
+Please leave a phone message if I'm unable to answer and I'll return your call as soon as I can.
 
 <table class="table table-striped">
   <tbody>
