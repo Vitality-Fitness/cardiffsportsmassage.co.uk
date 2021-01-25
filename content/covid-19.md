@@ -18,7 +18,7 @@ Online assessment and treatment will include:
 
 Thanks to everyone for your support through this difficult time and I look forward to seeing you when it's safe.
 
-Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
+<!-- Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
 When we are open you will, of course, see many changes in the clinic to help keep us all safe, including:
 
@@ -52,7 +52,7 @@ When we are open you will, of course, see many changes in the clinic to help kee
 
 * All persons to try to avoid touching surfaces where possible. 
 
-I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe. 
+I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe. -->
 
 Thank you for your custom and patience. I look forward to seeing you all soon.
 
