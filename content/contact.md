@@ -63,7 +63,7 @@ These are our clinic opening hours. You can find our availability on a particula
 
 ## Contact Form
 
-<form action="https://formspree.io/f/donna@vitalityfitness.info" method="post">
+<form action="https://formspree.io/f/donna@vitalityfitness.info" method="POST">
   <input type="hidden" name="_next" value="http://www.cardiffsportsmassage.co.uk/contact-received">
   <div class="form-group">
     <label for="name">Name</label>
