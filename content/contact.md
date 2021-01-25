@@ -5,7 +5,7 @@ draft: false
 description: Telephone numbers, email addresses and opening hours for our sports massage clinic.
 ---
 
-Please leave a phone message if I'm unable to answer and I'll return your call as soon as I can.
+Please leave a phone message if I'm unable to answer and I'll return your call within two hours.
 
 <table class="table table-striped">
   <tbody>
