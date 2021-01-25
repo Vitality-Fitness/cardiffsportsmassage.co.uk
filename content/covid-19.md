@@ -5,7 +5,7 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Due to the lockdown announced last month and the clinic being closed, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible. As of 1st February I will be opening up bookings for online treatments via video. While this will be a different approach it has helped and is helping people right now, so it does help! I'd like to adopt this approach as it is the safest way we can help at the moment. These will be done via, Zoom or WhatsApp depending on your preference.
+Due to the lockdown announced last month and the clinic being closed, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible (non urgent). As of 1st February I will be opening up bookings for online treatments via video. While this will be a different approach it has helped and is helping people right now, so it does help! I'd like to adopt this approach as it is the safest way we can help at the moment. These will be done via, Zoom or WhatsApp depending on your preference.
 
 Online assessment and treatment will include:
 
@@ -17,7 +17,7 @@ Online assessment and treatment will include:
 * Explanation of what I think should happen in the future regarding exercises, frequency and duration.
 * Accountability, I'll suggest when you should rebook another video appointment for follow-up and ensure you get the most out of the sessions.
 
-For any issues you feel are urgent please get in contact via the <a href="/contact">contact form </a> as face to face appointments may be arranged if the issue is deeemed urgent or a medical need. 
+<h5>For any issues you feel are urgent please get in contact via the <a href="/contact">contact form</a> as face to face appointments may be arranged if the issue is deeemed urgent or a medical need. </h5>
 
 Thanks to everyone for your support through this difficult time. Of course, if you have any questions please email or call me. 
 
