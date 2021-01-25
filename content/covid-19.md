@@ -9,7 +9,7 @@ Due to the lockdown announced last month and the clinic being closed since, I am
 
 Online assessment and treatment will include:
 
-* Full assessment just as we would in clinic. 
+* Full assessment just as we would in clinic. It’s important to get as much information as possible, including history and current lifestyle including exercising,     if applicable. 
 * Any muscoskeletal tests, if applicable, to help me define the problem with full instruction & demonstration from myself.
 * Explanation of my thoughts and diagnosis from consultation and tests.
 * Demonstratation from me for any exercises (stretching/strengthening/self massage) as applicable.
