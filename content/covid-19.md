@@ -1,13 +1,22 @@
 ---
-title: "COVID-19 Statement Updated 20th December 2020"
+title: "COVID-19 Statement Updated 25th January 2021"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-The clinic is now CLOSED from Monday 21st December. Bookings will reopen when Welsh government guidance allows.
+Due to the lockdown announced last month and the clinic being closed since, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible. As of 1st February I will be opening up bookings for online treatments. While this will be a different approach it has helped and is helping people right now. Physiotherapists and Sports Massage Therapists have adopted this approach as it is the safest way we can help at the moment. 
 
-Thanks to everyone for your support through this difficult time and I look forward to seeing you soon.
+Online assessment will include:
+* Full video assessment just as we would in clinic 
+* Any muscoskeletal tests, if applicable, to help me define the problem with full instruction & demostration from myself.
+* Explanation of my thoughts and diagnosis from consultation and tests.
+* Demonstratation from me for any exercises (stretching/strengthening/self massage) as applicable.
+* You demonstrate same exercises with pointers from me.
+* Explanation of what I think should happen in the future regarding exercises, frequency and duration.
+* Accountability, I'll suggest when you should rebook another video appointment for follow-up and ensure we are both on the same page.
+
+Thanks to everyone for your support through this difficult time and I look forward to seeing you when it's safe.
 
 Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
