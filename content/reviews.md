@@ -9,7 +9,7 @@ For an up to date list of reviews, please visit <a href="https://www.google.com/
 
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
-<<iframe width="560" height="315" src="https://www.youtube.com/embed/fJMGAM9RGns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJMGAM9RGns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <footer class="blockquote-footer">Susie Ventris-Field</footer>
 </blockquote>
 
