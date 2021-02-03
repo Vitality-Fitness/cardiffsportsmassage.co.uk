@@ -2,10 +2,10 @@
 title: "Reviews"
 date: 2017-12-11T15:54:02Z
 draft: false
-description: Reviews of our massage service from existing customers
+description: Reviews of our massage services from existing customers
 ---
 
-For an up to date list of reviews, please visit <a href="https://www.google.com/search?q=Vitality+Fitness+Sports+Massage+Brynderwen+Close,+Cardiff,+Wales,+United+Kingdom&ludocid=4673991449443763488&#lrd=0x486e1cf7b789e35f:0x40dd5a759b4f0520,1">Google</a> and/or <a href="https://uk.trustpilot.com/review/www.cardiffsportsmassage.co.uk">TrustPilot</a>.
+For more reviews, please visit <a href="https://www.google.com/search?q=Vitality+Fitness+Sports+Massage+Brynderwen+Close,+Cardiff,+Wales,+United+Kingdom&ludocid=4673991449443763488&#lrd=0x486e1cf7b789e35f:0x40dd5a759b4f0520,1">Google</a> and/or <a href="https://uk.trustpilot.com/review/www.cardiffsportsmassage.co.uk">TrustPilot</a>.
 
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
