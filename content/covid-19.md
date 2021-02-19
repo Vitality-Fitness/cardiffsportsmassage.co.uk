@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Statement Updated 19th January 2021"
+title: "COVID-19 Statement Updated 19th February 2021"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
