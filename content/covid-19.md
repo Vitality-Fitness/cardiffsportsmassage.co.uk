@@ -14,7 +14,7 @@ Online assessment and treatment will include:
 * Explanation of my thoughts and diagnosis from consultation and tests.
 * Demonstratation from me for any exercises (stretching/strengthening/self massage) as applicable.
 * You demonstrate the same exercises or self massage with close guidance and feedback from myself.
-* Explanation of what I think should happen in the future regarding exercises, frequency and duration.
+* Explanation of what I think should happen in the future regarding exercises, frequency, duration and the need for further treatments together.
 * Accountability, I'll suggest when you should rebook another video appointment for follow-up and ensure you get the most out of the sessions.
 
 <h5>For any issues you feel are urgent please get in contact via the <a href="/contact">contact form</a> as face to face appointments may be arranged if the issue is deeemed urgent or a medical need. </h5>
