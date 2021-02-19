@@ -17,7 +17,7 @@ Online assessment and treatment will include:
 * Explanation of what I think should happen in the future regarding exercises, frequency, duration and the need for further treatments together.
 * Accountability, I'll suggest when you should rebook another video appointment for follow-up and ensure you get the most out of the sessions.
 
-<h5>For any issues you feel are urgent please get in contact via the <a href="/contact">contact form</a> as face to face appointments may be arranged if the issue is deeemed urgent or a medical need. </h5>
+<h5>For any issues you feel are urgent please get in contact via the <a href="/contact">contact form</a> as face to face appointments may be arranged if the issue is deemed urgent or a medical need. </h5>
 
 Thanks to everyone for your support through this difficult time. Of course, if you have any questions please email or call me. 
 
