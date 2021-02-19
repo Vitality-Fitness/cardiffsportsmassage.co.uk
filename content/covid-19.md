@@ -5,7 +5,7 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Due to the lockdown announced in December and the clinic being closed for another 3 weeks at least, I am started to branch out via different pathways with the aim to be able to still help you even if a clinic appointment isn't possible (non urgent). I have opened up bookings for online treatments via video. While this will be a different approach it has had some superb results so far, so be open minded! I'd like to adopt this approach as it is the safest way we can help at the moment. These will be done via, Zoom or WhatsApp depending on your preference.
+Due to the lockdown announced in December and the clinic being closed for another 3 weeks at least, I am still offering online treatments via video. While this is  a different approach it has had some superb results so far, so why not give it a try?! I'd like to adopt this approach as it is the safest way we can help at the moment. These video consultations will be done via, Zoom or WhatsApp depending on your preference.
 
 Online assessment and treatment will include:
 
