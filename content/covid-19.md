@@ -1,23 +1,11 @@
 ---
-title: "COVID-19 Statement Updated 19th February 2021"
+title: "COVID-19 Statement Updated 6th March 2021"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Due to the lockdown announced in December and the clinic being closed for another 3 weeks at least, I am still offering video consultations and treatments. While this is  a different approach it has had some superb results so far, so why not give it a try?! I'd like to continue this approach as it is the safest way I can help you at the moment. These video consultations will be done via, Zoom or WhatsApp depending on your preference.
-
-Online assessment and treatment will include:
-
-* Full assessment just as we would in clinic. It’s important to get as much information as possible, including history and current lifestyle including exercising,     if applicable. 
-* Any muscoskeletal tests, if applicable, to help me define the problem with full instruction & demonstration from myself.
-* Explanation of my thoughts and diagnosis from consultation and tests.
-* Demonstratation from me for any exercises (stretching/strengthening/self massage) as applicable.
-* You demonstrate the same exercises or self massage with close guidance and feedback from myself.
-* Explanation of what I think should happen in the future regarding exercises, frequency, duration and the need for further treatments together.
-* Accountability, I'll suggest when you should rebook another video appointment for follow-up and ensure you get the most out of the sessions.
-
-<h5>For any issues you feel are urgent please get in contact via the <a href="/contact">contact form</a> as face to face appointments may be arranged if the issue is deemed urgent or a medical need. </h5>
+Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in here{} and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
 
 Thanks to everyone for your support through this difficult time. Of course, if you have any questions please email or call me. 
 
