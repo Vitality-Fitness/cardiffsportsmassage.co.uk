@@ -5,9 +5,10 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
+Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent and where the problem is a
+specific injury or condition. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
 
-Thanks to everyone for your support through this difficult time. Of course, if you have any questions please email or call me. 
+Thanks to everyone for your support through this difficult time. I hope to reopen to all clients very soon and await to hear the next update from the Welsh government on Friday 12t March. Of course, if you have any questions please email or call me. 
 
 <!-- Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
