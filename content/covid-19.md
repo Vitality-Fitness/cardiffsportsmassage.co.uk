@@ -5,7 +5,7 @@ draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in here{} and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
+Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
 
 Thanks to everyone for your support through this difficult time. Of course, if you have any questions please email or call me. 
 
