@@ -1,14 +1,16 @@
 ---
-title: "COVID-19 Statement Updated 6th March 2021"
+title: "COVID-19 Statement Updated 8th March 2021"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
-Welsh government guidance is now permitting face to face treatments in the clinic which I classify as urgent and where the problem is a
-specific injury or condition. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
+Exciting news!!! 
+With the R number below 1, the positivity rate fallen to 5.4% and the anticpitation that close contact services will re-opn on March 15th we are now taking bookings for ALL clients from Tuesday 8th March.
 
-Thanks to everyone for your support through this difficult time. I hope to reopen to all clients very soon and await to hear the next update from the Welsh government on Friday 12t March. Of course, if you have any questions please email or call me. 
+For the week 8th March to 12th March I am still permitted to see urgent cases, so do book in or get in contact if you are in this category. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
+
+Thanks to everyone for your support through this difficult time. If you have any questions please email or call me. 
 
 <!-- Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
