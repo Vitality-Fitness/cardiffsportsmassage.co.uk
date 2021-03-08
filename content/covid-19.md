@@ -44,7 +44,7 @@ When we open you will, of course, see many changes in the clinic to help keep us
 
 * All persons to try to avoid touching surfaces where possible. 
 
-I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe. -->
+I hope this is all clear and reassures you that we are doing everything possible to keep everyone safe.
 
 Thank you for your custom and patience. I look forward to seeing you all soon.
 
