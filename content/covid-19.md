@@ -6,7 +6,7 @@ description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 
 Exciting news!!! 
-With the R number below 1, the positivity rate fallen to 5.4% and the anticpitation that close contact services will re-opn on March 15th we are now taking bookings for ALL clients from Tuesday 8th March.
+With the R number below 1, the positivity rate fallen to 5.4% and the anticpitation that close contact services will re-open on March 15th we are now taking bookings for ALL clients from Tuesday 9th March.
 
 For the week 8th March to 12th March I am still permitted to see urgent cases, so do book in or get in contact if you are in this category. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
 
