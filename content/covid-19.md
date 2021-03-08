@@ -10,11 +10,9 @@ With the R number below 1, the positivity rate fallen to 5.4% and the anticipati
 
 For the week 8th March to 12th March I am still permitted to see urgent cases, so do book in or get in contact if you are in this category. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines.    
 
-Thanks to everyone for your support through this difficult time. If you have any questions please email or call me. 
+Thank you for following the procedures in and around the clinic when you do come in, as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
-<!-- Thank you for following the procedures in and around the clinic as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
-
-When we are open you will, of course, see many changes in the clinic to help keep us all safe, including:
+When we open you will, of course, see many changes in the clinic to help keep us all safe, including:
 
 * Once your appointment is made you must fill out an online screening form. If the form is not complete 24 hours before the appointment time your appointment will be cancelled. 
 
