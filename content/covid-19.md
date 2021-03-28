@@ -1,11 +1,11 @@
 ---
-title: "COVID-19 Statement Updated 15th March 2021"
+title: "COVID-19 Statement Updated 28th March 2021"
 date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
 As a Sports Massage Therapist in Wales we are still only permitted to see urgent clients, so do book in or get in contact if you are in this category. A video or phone consultation will be completed first and, if you're condition is deemed urgent, the treatment in clinic will be a short as possible. You can book in <a href="https://vitfitcdf.as.me/" role="button">here</a> and then I shall call you at a convenient time to conduct the consultation. This means face to face contact will be kept to a minimum in line with government guidelines. 
-The Welsh Government has indicated that I will be able to re-open in a full capacity from Monday April 12th. Of course, as soon as this is confirmed I will let you know. 
+The Welsh Government hare still indicating that I will be able to re-open in a full capacity from Monday April 12th. Of course, as soon as this is confirmed I will let you know. 
 
 Thank you for following the procedures in and around the clinic when you do come in, as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
