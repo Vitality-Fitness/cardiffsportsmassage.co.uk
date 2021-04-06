@@ -4,7 +4,7 @@ date: 2017-12-04T20:19:37Z
 draft: false
 description: Statement about the ongoing COVID-19 / Coronavirus condition
 ---
-The Welsh Government have confirmed that I will be able to re-open the clinic in a full capacity (business as usual) from next Monday April 12th. This is both exciting an long awaited news, please book in <a href="https://vitfitcdf.as.me/" role="button">here</a>.
+The Welsh Government have confirmed that I will be able to re-open the clinic in a full capacity (business as usual) from next Monday April 12th. This is both exciting and long awaited news, please book in <a href="https://vitfitcdf.as.me/" role="button">here</a>.
 
 Thank you for following the procedures in and around the clinic when you do come in, as it helps to keep everyone safe by minimising risk of spread of COVID-19. 
 
