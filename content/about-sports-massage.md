@@ -36,6 +36,6 @@ Donna is the sole sports massage therapist at Vitality Fitness, ensuring you alw
 
 If you are expecting your legs to be massaged, please wear shorts to your appointment. -->
 
-<a class="btn btn-primary" href="https://vitfitcdf.as.me/schedule.php" role="button">Book Now</a>
+<a class="btn btn-default" href="https://vitfitcdf.as.me/schedule.php" role="button">Book Now</a>
 <a class="btn btn-primary" href="/gift-vouchers/" role="button">Buy Gift Voucher</a>
 
