@@ -16,11 +16,11 @@ way I'll get back to you within the hour.
     </tr>
     <tr>
       <th scope="row">SMS</th>
-      <td><a href="sms:+447968441706">079 6844 1706</a></td>
+      <td><a href="sms:+4479604525169">079 0452 5169</a></td>
     </tr>
     <tr>
       <th scope="row">WhatsApp</th>
-      <td><a href="https://api.whatsapp.com/send?phone=447968441706">079 6844 1706</a></td>
+      <td><a href="https://api.whatsapp.com/send?phone=447904525169">079 0452 5169</a></td>
     </tr>
     <tr>
       <th scope="row">Email</th>
