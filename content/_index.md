@@ -11,7 +11,7 @@ draft: false
     <!-- <p class="lead">Our treatments go full circle as once treatment is complete we provide home work to ensure good muscle balance and improved flexibility.<p> -->
     <p>
         <!-- <a class="btn btn-primary btn-lg" href="/covid-19/" role="button">Book Now</a> -->
-        <!-- <a class="btn btn-primary btn-lg" href="https://vitfitcdf.as.me/" role="button">Book Now</a> -->
+        <a class="btn btn-primary btn-lg" href="https://vitfitcdf.as.me/" role="button">Book Now</a>
         <!-- <a class="btn btn-primary btn-lg" href="/gift-vouchers/" role="button">Buy Gift Voucher</a> -->
         <a class="btn btn-info btn-lg" href="/about-sports-massage/" role="button">Learn More</a></p>
     </p>
