@@ -54,7 +54,7 @@ For more reviews, please visit <a href="https://www.google.com/search?q=Vitality
 <blockquote class="blockquote">
 <span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span><span class="oi oi-star"></span>
 <p>Came in with pain in my shoulder and have left with more movement than I have had in years. Will most definitely be back!! Highly recommended.</p>
-<p>23/06/2015 - Well I came back and am so glad I did.... I won't say it did not hurt... that is obvious... but I now have much more movement in my neck and shoulders.... back soon for the lower back :)</p>
+<p>Well I came back and am so glad I did.... I won't say it did not hurt... that is obvious... but I now have much more movement in my neck and shoulders.... back soon for the lower back :)</p>
 <footer class="blockquote-footer">Chrissie W</footer>
 </blockquote>
 
