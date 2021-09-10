@@ -35,7 +35,6 @@ description: Prices for our 30 and 60 minute sports massage treatments.
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£38</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Most popular option</li>
               <li>More complex issues</li>
               <li>Good lunchtime option</li>
               <!-- <li>Help center access</li> -->
@@ -52,6 +51,7 @@ description: Prices for our 30 and 60 minute sports massage treatments.
             <h1 class="card-title pricing-card-title">£48</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>Best value for money</li>
+              <li>Most popular option</li>
               <li>Ideal for initial treatment</li>
               <li>Gives time for further soft tissue tests</li>
               <!-- <li>Help center access</li> -->
