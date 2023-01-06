@@ -15,8 +15,8 @@ Please pick the voucher you'd like from the following options.  After completing
 
 Gift vouchers can be redeemed through our online booking system or over the phone, and are valid for 12 months.
 
-<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607" role="button">30 Minutes (&pound;28.00)</a>
+<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607" role="button">30 Minutes (&pound;30.00)</a>
 
-<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609" role="button">45 Minutes (&pound;38.00)</a>
+<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609" role="button">45 Minutes (&pound;40.00)</a>
 
-<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">60 Minutes (&pound;48.00)</a>
+<a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610" role="button">60 Minutes (&pound;50.00)</a>
